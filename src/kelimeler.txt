@@ -1,0 +1,462 @@
+a CL_ISIM
+aa CL_ISIM
+abartma CL_ISIM
+abartmacı CL_ISIM
+abartmacılık CL_ISIM IS_SD
+abartmalı IS_ADJ
+abartmasız IS_ADJ
+abartmasızca IS_ADVERB
+abasız IS_ADJ
+abaşo CL_ISIM
+abat IS_ADJ
+abay IS_OA
+abayhan IS_OA
+abaza CL_ISIM IS_OA
+abazaca CL_ISIM IS_OA IS_ADJ
+abazan IS_ADJ
+abazanlaş CL_FIIL
+abazanlık CL_ISIM IS_SD
+abbad IS_OA
+abbas IS_OA
+abbase IS_OA
+abbasi IS_OA
+abbaz IS_OA
+abbdurrahim IS_OA
+abbie IS_OA
+abbigail IS_OA
+abbott IS_OA
+abby IS_OA
+abc IS_OA IS_UU
+abd IS_KIS IS_OA
+abdal CL_ISIM IS_OA
+abdalımsı IS_ADJ
+abdallık CL_ISIM IS_SD
+abdar IS_OA
+abdest CL_ISIM
+abdestbozan CL_ISIM
+abdesthane CL_ISIM
+abdi IS_OA
+abdiaciz CL_ISIM
+abdiâciz CL_ISIM
+abdiel IS_OA
+abdul IS_OA
+abdulali IS_OA
+abdulaziz IS_OA
+abdulbaki IS_OA
+abdulhakim IS_OA
+abdulhalim IS_OA
+abdulhamid IS_OA
+abdulhamit IS_OA
+abdulkadir IS_OA
+abdülbari IS_OA
+abdülbasıt IS_OA
+abdülbasir IS_OA
+abdülbasit IS_OA
+abdülbedi IS_OA
+abdülberr IS_OA
+abdülcabbar IS_OA
+abdülcanbaz IS_OA
+abdülcebbar IS_OA
+abdülcelil IS_OA
+abdülcemal IS_OA
+abdülcevat IS_OA
+abdülehad IS_OA
+abdülesed IS_OA
+abdülevvel IS_OA
+abdülezel IS_OA
+abdülferid IS_OA
+abdülferit IS_OA
+abdülfettah IS_OA
+abdülgaffar IS_OA
+abdülgaffur IS_OA
+abdülgafur IS_OA
+abdülgafûr IS_OA
+abdülgani IS_OA
+abdülhabir IS_OA
+abdülhadi IS_OA
+abdülhafız IS_OA
+abdülhak IS_OA
+abdülhakem IS_OA
+abdülkadir IS_OA
+abdülkahhar IS_OA
+abdülkaviy IS_OA
+abdülkayyum IS_OA
+abdülkebir IS_OA
+abdülkerim IS_OA
+abdülkuddûs IS_OA
+abdüllatif IS_OA
+abdüllâtif IS_OA
+abdülleziz CL_ISIM
+abdülmacid IS_OA
+b IS_OA
+b-52 IS_OA IS_KIS
+baas IS_OA
+bab CL_ISIM
+baba CL_ISIM IS_OA
+babaanne CL_ISIM
+babaannelik CL_ISIM
+babaca IS_ADJ
+babacan IS_ADJ IS_OA
+babacanca IS_ADVERB
+babacanlaş CL_FIIL
+babacanlık CL_ISIM
+babacı CL_ISIM
+babacık CL_ISIM IS_SD
+babacıl IS_ADJ
+babacılık CL_ISIM
+babaç IS_OA IS_SD CL_ISIM
+babaçko IS_ADJ
+badem CL_ISIM IS_OA
+badema IS_ADVERB
+bademci CL_ISIM
+bademcik IS_SD CL_ISIM
+bademli IS_ADJ
+bademlik CL_ISIM IS_SD
+bademsi IS_ADJ
+bademsiz IS_ADJ
+bademyağı IS_BILEŞ CL_ISIM
+baderna CL_ISIM
+badıç IS_SD CL_ISIM
+bağlamacı CL_ISIM
+bağlamacılık CL_ISIM
+bağlamalık IS_ADJ
+bağlamsal IS_ADJ
+bağlan IS_OA
+bağlanak CL_ISIM IS_SD
+bağlanım CL_ISIM
+barem CL_ISIM
+baret CL_ISIM
+baretlik CL_ISIM IS_SD
+barfiks CL_ISIM
+bargah CL_ISIM
+cengiz IS_OA
+cengizhan IS_OA
+cenin CL_ISIM
+ceninisakıt CL_ISIM
+cenk IS_KG IS_SD CL_ISIM IS_OA
+cenkçi IS_ADJ
+cenker IS_OA
+cenkleş CL_FIIL
+cennet CL_ISIM IS_OA
+cennetkuşu IS_BILEŞ CL_ISIM
+cennetleş CL_FIIL
+cennetlik CL_ISIM IS_SD
+cennetmekan CL_ISIM
+cennetmekân CL_ISIM
+cenova CL_ISIM IS_OA
+cent CL_ISIM
+center IS_OA
+çukur CL_ISIM
+çukurca IS_OA
+çukurlan CL_FIIL F5PR-NO-REF
+çukurlaş CL_FIIL
+çukurlu IS_ADJ
+çukurluk CL_ISIM IS_SD
+çukurova IS_OA
+çul CL_ISIM
+çulcu CL_ISIM
+çulculuk CL_ISIM IS_SD
+çulha CL_ISIM
+çulhakuşu IS_BILEŞ CL_ISIM
+çulla CL_FIIL F_GUD F4PW
+dadaş CL_ISIM IS_OA
+daday IS_OA
+dadı CL_ISIM
+dadılı IS_ADJ
+dadılık CL_ISIM IS_SD
+dafi IS_OA
+dafne IS_OA
+dağ CL_ISIM
+dağa IS_OA
+dağalası IS_B_SI IS_BILEŞ CL_ISIM
+dağar CL_ISIM
+dağarcık IS_SD CL_ISIM
+dağaşan IS_OA
+dağbaşı CL_ISIM
+dağcı CL_ISIM
+dalsız IS_ADJ
+daltaban IS_ADJ
+daltekin IS_OA
+dalton IS_OA
+delikan IS_OA
+delikanlı IS_ADJ CL_ISIM IS_EX IS_OA
+delikanlıca IS_ADJ
+delikanlılaş CL_FIIL
+delikanlılık CL_ISIM IS_SD
+delikleş CL_FIIL
+dipdinç IS_ADJ
+dipdiri IS_ADJ
+dipfriz CL_ISIM
+dipkarpaz IS_OA
+ener IS_OA
+eneren IS_OA
+energin IS_OA
+enerji CL_ISIM
+enerjik IS_SD IS_ADJ
+enes IS_OA
+enez IS_OA
+eneze IS_ADJ
+enfa IS_OA
+enfal IS_OA
+enfali IS_OA
+eren IS_OA
+erenalp IS_OA
+erenay IS_OA
+fabl CL_ISIM
+fabrika CL_ISIM
+fabrikacı CL_ISIM
+fabrikacılık CL_ISIM IS_SD
+fabrikasyon IS_ADJ
+fabrikatör CL_ISIM
+fenniye IS_OA
+fenol IS_UU CL_ISIM
+fenoloji CL_ISIM
+fenolojik IS_ADJ
+ful IS_OA IS_UU CL_ISIM IS_ADJ
+fular CL_ISIM
+fulden IS_OA
+galoş CL_ISIM
+galoşlu IS_ADJ
+galoşsuz IS_ADJ
+gazi CL_ISIM
+gâzî CL_ISIM
+gaziantep IS_OA
+gaziantepli IS_OA CL_ISIM
+gaziemir IS_OA
+gönül IS_OA IS_UD CL_ISIM
+gönülay IS_OA
+gönüldaş CL_ISIM
+gönüldaşlık CL_ISIM IS_SD
+gönülden IS_OA
+gönüldeş IS_OA
+haberci CL_ISIM
+habercilik CL_ISIM
+haberdar IS_ADJ
+haberleş CL_FIIL
+haberleşme CL_ISIM
+haberli IS_ADJ IS_ADVERB
+haberlik IS_ADJ
+habersiz IS_ADJ IS_ADVERB
+habersizce IS_ADVERB
+hacılar IS_OA
+hacılarkuşağı IS_B_SD IS_BILEŞ CL_ISIM
+hacılaryolu IS_BILEŞ CL_ISIM
+hacılık CL_ISIM IS_SD
+hacıosmanoğlu IS_OA
+hacıyağı IS_BILEŞ CL_ISIM
+hacıyatmaz CL_ISIM
+hacıyolu CL_ISIM
+hamiş CL_ISIM
+hamit IS_OA IS_SD
+hâmit IS_OA IS_SD
+hamiye IS_OA
+hamiyet CL_ISIM IS_OA
+hamiyetli IS_ADJ
+ıldır IS_OA
+ıldız IS_OA
+ılga F_GUD CL_FIIL F4PW
+ılgar CL_ISIM IS_OA
+ılgarcı CL_ISIM
+ılgarla F_GUD CL_FIIL F4PW
+ılgarlı IS_OA
+ılgaz IS_OA
+ırk CL_ISIM
+ırkçı CL_ISIM
+ırkçılık CL_ISIM IS_SD
+ırkıl IS_OA
+ırki IS_ADJ
+içiş CL_ISIM
+içit CL_ISIM
+içitim CL_ISIM
+içiver CL_FIIL
+imamlık CL_ISIM IS_SD
+imamoğlu IS_OA
+imamsuyu CL_ISIM
+iman CL_ISIM IS_OA
+jagger IS_OA
+jagoda IS_OA
+jaguar CL_ISIM IS_OA
+jaida IS_OA
+jaiden IS_OA
+jaime IS_OA
+jair IS_OA
+jairo IS_OA
+jak CL_ISIM
+jakar CL_ISIM
+kabadüz IS_OA
+kabahat IS_UU CL_ISIM
+kabahatli IS_ADJ
+kabahatsiz IS_ADJ
+kabak IS_SD CL_ISIM IS_ADJ
+kabakçı CL_ISIM
+kabakgiller IS_CA CL_ISIM
+kabakla F_GUD CL_FIIL F4PW
+kabaklaş CL_FIIL
+kahve CL_ISIM
+kahveci CL_ISIM
+kahvecilik CL_ISIM IS_SD
+kahveevi CL_ISIM
+kahvehane CL_ISIM
+karınca CL_ISIM
+karıncaezmez IS_ADJ
+karıncaincitmez IS_ADJ
+karıncalan CL_FIIL F5PR
+karıncalar CL_ISIM
+karıncalı IS_ADJ
+liberal IS_ADJ
+liberalist IS_ADJ
+liberalizm CL_ISIM
+liberalleş CL_FIIL
+liberasyon CL_ISIM
+libero CL_ISIM
+liberty IS_OA
+liberya IS_OA
+liberyalı IS_OA CL_ISIM
+libido CL_ISIM
+liboş CL_ISIM
+memet IS_OA
+memik IS_OA
+memiş IS_OA
+memişhane CL_ISIM
+memleha CL_ISIM
+memleket CL_ISIM
+memleketçi CL_ISIM
+memleketli CL_ISIM
+mert IS_ADJ IS_OA
+merve IS_OA
+nefha CL_ISIM
+nefi IS_OA
+nefir CL_ISIM
+nefis IS_OA IS_UD IS_ADJ CL_ISIM
+nefise IS_OA
+nefiy CL_ISIM
+olca IS_OA
+olcabay IS_OA
+olcan IS_OA
+olcay IS_OA
+olcayhan IS_OA
+olcayto IS_OA
+ökten IS_OA
+öktener IS_OA
+öktürk IS_OA
+öküz CL_ISIM
+öküzbalığı IS_B_SD IS_BILEŞ CL_ISIM
+öküzburnu IS_BILEŞ IS_B_UD CL_ISIM
+öküzdili IS_BILEŞ CL_ISIM
+öküzgözü IS_BILEŞ CL_ISIM
+öküzlük CL_ISIM
+pahalı IS_ADJ
+pahalıca IS_ADJ
+pahalılan CL_FIIL
+pahalılaş CL_FIIL F4PW
+pahalılık CL_ISIM IS_SD
+pahasına IS_ADVERB
+pahla CL_FIIL F4PW
+saadeddin IS_OA
+saadet CL_ISIM IS_OA
+saadethane CL_ISIM
+saadetle IS_ADVERB
+saadetli IS_ADJ CL_ISIM
+saadettin IS_OA
+salih IS_OA
+şipşak IS_ADVERB
+şipşakçı CL_ISIM
+şipşakçılık CL_ISIM
+şipşirin IS_ADJ
+şir IS_OA
+şiran IS_OA
+şiraze CL_ISIM
+şirden CL_ISIM
+şirin IS_ADJ IS_OA
+şîrin IS_ADJ
+şirinbegim IS_OA
+şirinbige IS_OA
+şirinevler IS_OA
+tabela CL_ISIM
+tabelacı CL_ISIM
+tabelacılık CL_ISIM
+tabelalı IS_ADJ
+tabelasız IS_ADJ
+tabende IS_OA
+teessür CL_ISIM
+teessürat CL_ISIM
+teessüs CL_ISIM
+türk CL_ISIM
+türkalp IS_OA
+türkan IS_OA
+türkaslan IS_OA
+türkay IS_OA
+türkbank IS_OA
+türkcan IS_OA
+türkçe CL_ISIM
+türkçeci CL_ISIM
+türkçecilik IS_OA IS_SD CL_ISIM
+türkçeleş CL_FIIL
+türkçeleştir CL_FIIL
+türkçesi CL_ISIM
+türkçü IS_OA
+türkçülük CL_ISIM IS_SD
+türkiye IS_OA
+ufak IS_SD IS_ADJ
+ufakça IS_ADJ
+ufaklı IS_ADJ
+ufaklık CL_ISIM IS_SD
+ufal F_DIR CL_FIIL F4PL
+ufala F_GUD CL_FIIL F4PW
+ün CL_ISIM IS_OA
+ünal IS_OA
+ünalan IS_OA
+ünaldı IS_OA
+ünalmış IS_OA
+ünalp IS_OA
+ünan IS_OA
+ünay IS_OA
+vakur IS_ADJ IS_OA
+vâkur IS_ADJ
+vakvak CL_ISIM IS_SD
+vakvakla CL_FIIL F_GUD F4PW
+vala IS_OA
+valaşan IS_OA
+valay IS_OA
+valdemar IS_OA
+vale CL_ISIM
+valentim IS_OA
+valentin IS_OA
+walter IS_OA
+wanderers IS_OA
+wang IS_OA
+wannes IS_OA
+warner IS_OA
+warners IS_OA
+warre IS_OA
+warren IS_OA
+yabancılık CL_ISIM IS_SD
+yağlı IS_ADJ
+yağlıboya CL_ISIM
+yağlıdere IS_OA
+yağlık CL_ISIM IS_SD
+zaki IS_OA
+zakir IS_OA
+zakire IS_OA
+zakkum CL_ISIM
+zakkumgiller IS_CA CL_ISIM
+zakkumlaş CL_FIIL
+zakkumlu IS_ADJ
+zalán IS_OA
+zaliha IS_OA
+zalim IS_ADJ
+züppe IS_ADJ
+züppece IS_ADVERB
+züppeleş CL_FIIL
+züppelik CL_ISIM IS_SD
+zürafa CL_ISIM
+zürafagiller CL_ISIM IS_CA
+zürare IS_OA
+zürefa CL_ISIM
+zürih IS_OA
+zürra IS_SI IS_CA CL_ISIM
+zürriyet CL_ISIM IS_OA
+zürriyetli IS_ADJ
+zürriyetsiz IS_ADJ
+züyuf CL_ISIM
+zweig IS_OA
