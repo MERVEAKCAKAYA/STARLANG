@@ -1,0 +1,10 @@
+ADAM ASMACA OYUNU
+**Oyun programlanırken aşağıda sıraladığım maddeler göz önüne alınarak programlanmıştır.
+1- Oyun içerisinde kullanılan kelimeler STARLANG şirketinin github reposundan alınmıştır. Repoda çok fazla sayıda kelime
+olduğu için kodu kasmaması için hepsi alınmamış, her harften belirli sayılarda kelimeler alınmıştır.
+2- İnsanın girdiği harf sayısına karşılık gelen kelimenin olup olmadığı kontrolü yapılır. Mesela kullanıcı 70 harfli bir
+kelime tahmin etmek isterse, uyarı alır. Çünkü 70 harflik bir kelime txt'de mevcut değildir.
+3- Bilgisayarın kelimeyi bulmaya çalıştığı bölümde insan kelimenin index sayılarını veya bilinen harf sayısını mantıksız 
+girerse uyarı alır. Kod içerisinde bunun da kontrolü yapılmıştır.
+4- Oyuna başlarken kullanıcıya seçim hakkı sunulur. Kimin kelime tahmin edeceği(bilgisayar veya insan) veya oyuna 
+devam edip edilmeyeceği seçenekleri arasından kullanıcı bir seçim yapar.
